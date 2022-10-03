@@ -1,11 +1,26 @@
-<em># Pagina Principal </em>
+<em><h1 align="center"> Pagina Principal </h1> </em>
 <h4 align="center">
 :construction: Proyecto en construcción :construction:
 </h4>
-\## 📁 Acceso al proyecto
+### 📁 Contenido del Sitio
+ <ul>
+  <li>**📁img**</li>
+  <ul>
+    <li>📁backgrounds</li>
+    <li>📁icons</li>
+    <li>📁profile</li>
+    <li>📁projects</li>
+  </ul>
+  <li>**📁script**</li>
+  <ul>
+    <li>📁projects</li>
+    <li>📁site</li>
+    <li>📁effects</li>
+  </ul>
+  <li>**📁styles**</li>
+  <li>**📁web**</li>
+  </ul>
 
-**Indica cómo se puede descargar o acceder al código fuente del proyecto, ya sea proyecto inicial o final**
+### 🛠️ Ejecutar el codigo 
 
-\## 🛠️ Abre y ejecuta el proyecto
-
-**Muestra las instrucciones necesarias para abrir y ejecutar el proyecto**
+**Descarga la carpeta completa en este repositorio**
