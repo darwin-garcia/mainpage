@@ -6,17 +6,17 @@
 <h3> 📁 Contenido del Sitio </h3>
 
  <ul>
- <li><strong>📁img</strong></li>
-  <ul>
-   <li>📁academic</li>
-   <li>📁backgrounds</li>
-   <li>📁experiences</li>
-   <li>📁icons</li>
-   <li>📁profile</li>
-    🖼️user.png
+  <li><strong>📁img</strong></li>
+   <ul>
+    <li>📁academic</li>
+    <li>📁backgrounds</li>
+    <li>📁experiences</li>
+    <li>📁icons</li>
+    <li>📁profile</li>
+     🖼️user.png
     <li>📁projects</li>
-  </ul>
- <li><strong>📁script</strong></li>
+   </ul>
+  <li><strong>📁script</strong></li>
   <ul>
     <li>📁projects</li>
     <li>📁site</li>
@@ -30,9 +30,9 @@
    <li>📄reset.css</li>
    <li>📄section.css</li>
    <li>📄site-footer.css</li>
-   <li>📄social-item.css</li>
-  <li><strong>📁web</strong></li>
+  <li>📄social-item.css</li>  
  </ul>
+ <li><strong>📁web</strong></li>
   <ul>
    <li>🌐about-me.htm</li>
    <li>🌐academic.htm</li>
