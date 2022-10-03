@@ -4,7 +4,6 @@
 </h4>
 
 <h3> 📁 Contenido del Sitio </h3>
-
  <ul>
   <li><strong>📁img</strong></li>
    <ul>
@@ -43,10 +42,11 @@
 </ul>
 
 ### 🛠️ Como ejecutar el codigo? ###
-
-**Descarga la carpeta completa en este repositorio**
-Puedes ejecutar directamente el index.html desde la carpeta principal
-Ten en cuenta la ubicacion de los archivos relacionados. Pueden tener etiquetas href o src.
-Si usas Visual Studio Code, Atom, NeoVIM, Sublime Text, o cualquier otro IDE, puedes abrir directamente la carpeta del sitio.
+ <p>**Descarga la carpeta completa en este repositorio.**</p>
+<p>Puedes ejecutar directamente el index.html desde la carpeta principal
+ Ten en cuenta la ubicacion de los archivos relacionados. Pueden tener etiquetas href o src.</p>
+<p>Si usas Visual Studio Code, Atom, NeoVIM, Sublime Text, o cualquier otro IDE, puedes abrir directamente la carpeta del sitio.</p>
+ <p></p>
+ <p><h6><strong>🎯 ©MMXXII. Created and designed by 👨‍💻 Darwin Garcia. 🇨🇴</strong></h6></p>
 
 
