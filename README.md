@@ -43,7 +43,7 @@
 </ul>
 
 ### 🛠️ Como ejecutar el codigo? ###
- <p>**Descarga la carpeta completa en este repositorio.**</p>
+ <p><strong>Descarga la carpeta completa en este repositorio.</strong></p>
 <p>Puedes ejecutar directamente el index.html desde la carpeta principal
  Ten en cuenta la ubicacion de los archivos relacionados. Pueden tener etiquetas href o src.</p>
 <p>Si usas Visual Studio Code, Atom, NeoVIM, Sublime Text, o cualquier otro IDE, puedes abrir directamente la carpeta del sitio.</p>
