@@ -4,21 +4,21 @@
 </h4>
 ### 📁 Contenido del Sitio
  <ul>
-  <li>**📁img**</li>
+ <li><strong>📁img</strong></li>
   <ul>
     <li>📁backgrounds</li>
     <li>📁icons</li>
     <li>📁profile</li>
     <li>📁projects</li>
   </ul>
-  <li>**📁script**</li>
+ <li><strong>📁script</strong></li>
   <ul>
     <li>📁projects</li>
     <li>📁site</li>
     <li>📁effects</li>
   </ul>
-  <li>**📁styles**</li>
-  <li>**📁web**</li>
+  <li><strong>📁styles</strong></li>
+  <li><strong>📁web</strong></li>
   </ul>
 
 ### 🛠️ Ejecutar el codigo 
