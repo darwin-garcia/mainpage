@@ -2,7 +2,7 @@
 <h4 align="center">
 :construction: Proyecto en construcción :construction:
 </h4>
-### 📁 Contenido del Sitio
+### 📁 Contenido del Sitio ###
  <ul>
  <li><strong>📁img</strong></li>
   <ul>
@@ -19,8 +19,10 @@
   </ul>
   <li><strong>📁styles</strong></li>
   <li><strong>📁web</strong></li>
+ <li>index.html</li>
   </ul>
 
-### 🛠️ Ejecutar el codigo 
+### 🛠️ Como ejecutar el codigo? ###
 
 **Descarga la carpeta completa en este repositorio**
+
