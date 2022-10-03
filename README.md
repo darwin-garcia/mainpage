@@ -32,6 +32,7 @@
    <li>📄site-footer.css</li>
    <li>📄social-item.css</li>
   <li><strong>📁web</strong></li>
+ </ul>
   <ul>
    <li>🌐about-me.htm</li>
    <li>🌐academic.htm</li>
